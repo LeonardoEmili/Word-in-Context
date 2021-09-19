@@ -5,7 +5,7 @@
 Word-in-Context (WiC) disambiguation as a binary classification task using static word embeddings (i.e. Word2Vec and GloVe).
 
 ## Implementation details
-We propose a Bi-LSTM architecture with pre-trained word embeddings and test it against a simpler feed-forward neural network. For further insights, read the dedicated [report](https://github.com/LeonardoEmili/Word-in-Context/blob/main/report/acl2021.pdf) or the [presentation slides](https://github.com/LeonardoEmili/Word-in-Context/blob/main/slides.pdf) (pages 2-6).
+We propose a Bi-LSTM architecture with pre-trained word embeddings and test it against a simpler feed-forward neural network. For further insights, read the dedicated [report](https://github.com/LeonardoEmili/Word-in-Context/blob/main/report.pdf) or the [presentation slides](https://github.com/LeonardoEmili/Word-in-Context/blob/main/slides.pdf) (pages 2-6).
 
 ## Get the dataset
 You may download the original dataset from [here](https://github.com/SapienzaNLP/nlp2021-hw1/tree/main/data).
