@@ -1,4 +1,4 @@
-# Word-in-Context
+# Word-in-Context disambiguation
 
 [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LeonardoEmili/Word-in-Context/blob/main/hw1/stud/notebook.ipynb)
 
